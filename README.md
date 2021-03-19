@@ -18,5 +18,8 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-141a20?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-141a20?style=flat&logo=adobe-photoshop)&nbsp;
 
+<p align="center">
 ### ⚙️ &nbsp;GitHub Analytics
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibby360&theme=gotham&show_icons=true)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibby360&layout=compact&exclude_repo=Gictorbit.github.io&theme=gotham)](https://github.com/ibby360/github-readme-stats)
+
+</p>
