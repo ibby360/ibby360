@@ -1,4 +1,3 @@
-![counter](https://github.com/ibby360.m.pipedream.net)
 ### Hi there, I'm Ibrah 👋 
 <hr>
 
