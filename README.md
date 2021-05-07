@@ -1,3 +1,4 @@
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ibby360.ibby360)
 ### Hi there, I'm Ibrah 👋 
 <hr>
 
