@@ -3,8 +3,8 @@
 <hr>
 
 ### 👨🏻‍ &nbsp;About Me
-- 💻 I'm currently studying computing and information technology
-- 🌱 I’m currently learning Django, JavaScript, React
+- 💻 I'm currently working on personal projects. And looking for collaboration projects.
+- 🌱 I’m currently learning Django, JavaScript, Flutter
 
 ### 🛠 &nbsp;Tech Stack
 ![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)&nbsp;
