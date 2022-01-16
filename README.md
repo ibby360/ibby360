@@ -2,6 +2,16 @@
 ### Hi there, I'm Ibrah 👋 
 <hr>
 
+### Glad to see you here!
+I'm an enthusiastic learner who is eager to expand my knowledge and work across technologies and topics. I enjoy learning about new technology and applying them to real-world situations. I enjoy creating something from what I've learned.
+
+I'd love to make new friends.
+
+<a href="http://twitter.com/ankushsgandhi"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ibrahim-ramadhan/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/ibby360"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white"/></a>
+<a href="https://github.com/ibby360"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>
+
 ### 👨🏻‍ &nbsp;About Me
 - 💻 I'm currently working on personal projects. And looking for collaboration projects.
 - 🌱 I’m currently learning Django, JavaScript, Flutter
@@ -21,5 +31,8 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-141a20?style=flat&logo=adobe-photoshop)&nbsp;
 
 
-### ⚙️ &nbsp;GitHub Analytics
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibby360&theme=gotham&show_icons=true)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibby360&layout=compact&exclude_repo=Gictorbit.github.io&theme=gotham)](https://github.com/ibby360/github-readme-stats)
+<!-- ### ⚙️ &nbsp;GitHub Analytics
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibby360&theme=gotham&show_icons=true)&nbsp;  -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibby360&layout=compact&exclude_repo=Gictorbit.github.io&theme=gotham)](https://github.com/ibby360/github-readme-stats)
+ -->
