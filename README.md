@@ -10,7 +10,7 @@ I'm an enthusiastic learner who is eager to expand my knowledge and work across 
 
 I'd love to make new friends.
 
-<a href="http://twitter.com/ankushsgandhi"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://twitter.com/Ibby_Blaq"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/ibrahim-ramadhan/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/ibby360"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white"/></a>
 <a href="https://github.com/ibby360"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>
